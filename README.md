@@ -64,7 +64,7 @@ Il faut faire cependant attention à plusieurs biais :
 
 # Conclusion
 
-Nous avons pu trouver plusieurs modèles qui semblent efficaces sur les scores, cependant quand nous creusont un peu plus avec des résultats de précisions, courbes de rappel, courbes ROC et matrice de confusion, nous trouvons que les résultats semblent 
+Nous avons pu trouver plusieurs modèles qui semblent efficaces sur les scores, cependant quand nous creusont un peu plus avec des résultats de précisions, courbes de rappel, courbes ROC et matrice de confusion, nous trouvons que les résultats semblent peu satisfaisant avec 
 
 # Aller plus loin
 

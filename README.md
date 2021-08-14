@@ -60,7 +60,7 @@ Il faut faire cependant attention à plusieurs biais :
 ## Liens
 
 [Repository](https://github.com/screamzz/FinalProjectIronHack/)   
-[Slides](https://docs.google.com/presentation/d/1S--k2ATpx7-ZB8DW-CKB1UwcDBGFnogNY7cCvO14OKQ/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1ttM1pxhvZ5AhgW1_1CAfIMsCXi-a3zxtHxyUmShknHc/edit?usp=sharing)
 
 # Conclusion
 

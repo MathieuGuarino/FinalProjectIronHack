@@ -64,8 +64,11 @@ Il faut faire cependant attention à plusieurs biais :
 
 # Conclusion
 
-Nous avons pu trouver plusieurs modèles qui semblent efficaces sur les scores, cependant quand nous creusont un peu plus avec des résultats de précisions, courbes de rappel, courbes ROC et matrice de confusion, nous trouvons que les résultats semblent peu satisfaisant avec 
+Nous avons pu trouver plusieurs modèles qui ont des résultats limités, en effet le F1 scoring / recall ne dépassent pas 0.3. Nous voyons sur les matrices de confusion que les cas "CHURNED" sont en très faibles quantité et n'arrivent pas à être prédits correctement contrairement aux personnes qui sont encore présentes dans leurs entreprises.
 
 # Aller plus loin
 
-Nous avons à peine éffleuré la partie visible du dataset, nous pouvons en effet creuser et voir si la qualité de la voiture et l'évolution des normes de pollution automobile influencent les émissions de gaz. Les données les plus récentes datent de 2015, les véhicules hybrides et 100% électriques n'étaient pas très présents sur le parc automobile, c'est pour ça que nous les avons retirés de nos données d'entrées, mais il serait intéressant de voir l'effet de l'hybride sur les gaz et si le gain vaut l'utilisation de matière premières pour la réalisation de la batterie électrique.
+- Obtenir le reste des données pour augmenter fortement la taille du dataset : la proportion train/test modifiait beaucoup les résultats de scoring. Il faudrait contacter l'entreprise à l'origine de ces données 
+- Recommencer l’analyse des datasets avec une autre approche
+- Continuer à chercher des meilleurs modèles et les meilleurs paramètres associés pour optimiser les résultats
+
